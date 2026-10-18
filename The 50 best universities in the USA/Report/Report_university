@@ -1,0 +1,77 @@
+<<< Primary data analysis >>>
+
+ Output of the first 10 lines:
+                               University_Name  ...  Employment_Rate
+0  Massachusetts Institute of Technology (MIT)  ...             96.2
+1                          Columbia University  ...             92.1
+2                         Princeton University  ...             94.5
+3                          Stanford University  ...             97.8
+4           University of California, Berkeley  ...             91.4
+5                           Harvard University  ...             95.0
+6                             Williams College  ...             89.1
+7                     Johns Hopkins University  ...             90.5
+8                              Yale University  ...             93.3
+9                   University of Pennsylvania  ...             94.8
+
+[10 rows x 8 columns]
+
+Summary of data types:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 50 entries, 0 to 49
+Data columns (total 8 columns):
+ #   Column                 Non-Null Count  Dtype  
+---  ------                 --------------  -----  
+ 0   University_Name        50 non-null     object 
+ 1   National_Rank          50 non-null     int64  
+ 2   Founded_Year           50 non-null     int64  
+ 3   Institution_Type       50 non-null     object 
+ 4   State                  50 non-null     object 
+ 5   Research_Impact_Score  50 non-null     float64
+ 6   Intl_Student_Ratio     50 non-null     float64
+ 7   Employment_Rate        50 non-null     float64
+dtypes: float64(3), int64(2), object(3)
+memory usage: 3.2+ KB
+None
+
+Statistical summary of numerical columns:
+       National_Rank  Founded_Year  ...  Intl_Student_Ratio  Employment_Rate
+count       50.00000      50.00000  ...           50.000000        50.000000
+mean        25.50000    1844.04000  ...           44.630000        89.424000
+std         14.57738      64.89142  ...           31.729985         3.825562
+min          1.00000    1636.00000  ...            4.200000        81.900000
+25%         13.25000    1817.50000  ...           14.900000        86.900000
+50%         25.50000    1858.50000  ...           35.800000        89.300000
+75%         37.75000    1884.50000  ...           73.950000        92.325000
+max         50.00000    1965.00000  ...           94.200000        97.800000
+
+[8 rows x 5 columns]
+
+List of column names:
+['University_Name', 'National_Rank', 'Founded_Year', 'Institution_Type', 'State', 'Research_Impact_Score', 'Intl_Student_Ratio', 'Employment_Rate']
+
+<<< Data validation >>>
+
+Data types:
+University_Name           object
+National_Rank              int64
+Founded_Year               int64
+Institution_Type          object
+State                     object
+Research_Impact_Score    float64
+Intl_Student_Ratio       float64
+Employment_Rate          float64
+dtype: object
+
+Data duplicates:
+0
+
+The number of missing values
+University_Name          0
+National_Rank            0
+Founded_Year             0
+Institution_Type         0
+State                    0
+Research_Impact_Score    0
+Intl_Student_Ratio       0
+Employment_Rate          0
+dtype: int64
