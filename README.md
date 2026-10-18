@@ -48,22 +48,22 @@ The project maintains a production-grade decoupled file schema:
 Below are the key institutional trend charts generated dynamically by the analytics engine:
 
 ### 1. Employment Rate Benchmarking (Bar Chart)
-![University Ranking](The 50 best universities in the USA/Graphs/1_gist_University_Ranking.png)
+![University Ranking](The%2050%20best%20universities%20in%20the%20USA/Graphs/1_gist_University_Ranking.png)
 
 ### 2. University Rating Analytics (Scatter Plot)
-![University Rating](Graphs/2_University_rating.png)
+![University Rating](The%2050%20best%20universities%20in%20the%20USA/Graphs/2_University_rating.png)
 
 ### 3. Historical Longevity Profiles (Year of Foundation)
-![Year of Founding](Graphs/3_Year_of_founding_of_universities.png)
+![Year of Founding](The%2050%20best%20universities%20in%20the%20USA/Graphs/3_Year_of_founding_of_universities.png)
 
 ### 4. Academic Research Impact Scores
-![Research Impact](Graphs/4_the_impact_of_research.png)
+![Research Impact](The%2050%20best%20universities%20in%20the%20USA/Graphs/4_the_impact_of_research.png)
 
 ### 5. Institutional Employment Metrics
-![Employment Statistics](Graphs/5_employment.png)
+![Employment Statistics](The%2050%20best%20universities%20in%20the%20USA/Graphs/5_employment.png)
 
 ### 6. Employment Comparison by Institute Type (Bar Plot)
-![Employment by Type](Graphs/6_employment_by_type_of_institution.png)
+![Employment by Type](The%2050%20best%20universities%20in%20the%20USA/Graphs/6_employment_by_type_of_institution.png)
 
 ### 7. Private vs. Public Sector Market Distribution (Pie Chart)
-![Employment Comparison](Graphs/7_Employment_comparison_private_vs_public_institutions.png)
+![Employment Comparison](The%2050%20best%20universities%20in%20the%20USA/Graphs/7_Employment_comparison_pr....png)
