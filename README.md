@@ -47,8 +47,23 @@ The project maintains a production-grade decoupled file schema:
 ## 📊 Sample Visual Analytics Insights
 Below are the key institutional trend charts generated dynamically by the analytics engine:
 
-### 1. Employment Rate Benchmarking
-![University Ranking](Graphs/1_gist_University%20Ranking.png)
+### 1. Employment Rate Benchmarking (Bar Chart)
+![University Ranking](Graphs/1%20gist_University%20Ranking.png)
 
-### 2. Public vs. Private Sector Employment Distribution
-![Private vs Public](Graphs/7_employment%20by%20type%20of%20institution.png)
+### 2. University Rating Analytics (Scatter Plot)
+![University Rating](Graphs/2_University_rating.png)
+
+### 3. Historical Longevity Profiles (Year of Foundation)
+![Year of Founding](Graphs/3_Year_of_founding_of_universities.png)
+
+### 4. Academic Research Impact Scores
+![Research Impact](Graphs/4_the%20impact%20of%20research.png)
+
+### 5. Institutional Employment Metrics
+![Employment Statistics](Graphs/5_employment.png)
+
+### 6. Employment Comparison by Institute Type (Bar Plot)
+![Employment by Type](Graphs/6_employment%20by%20type%20of%20institution.png)
+
+### 7. Private vs. Public Sector Market Distribution (Pie Chart)
+![Employment Comparison](Graphs/7_Employment_comparison_pr....png)
