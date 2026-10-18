@@ -66,4 +66,4 @@ Below are the key institutional trend charts generated dynamically by the analyt
 ![Employment by Type](The%2050%20best%20universities%20in%20the%20USA/Graphs/6_employment_by_type_of_institution.png)
 
 ### 7. Private vs. Public Sector Market Distribution (Pie Chart)
-![Employment Comparison](The%2050%20best%20universities%20in%20the%20USA/Graphs/7_Employment_comparison_pr....png)
+![Employment Comparison](The%2050%20best%20universities%20in%20the%20USA/Graphs/7_Employment_comparison_private_vs_public_institutions.png)
