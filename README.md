@@ -48,7 +48,7 @@ The project maintains a production-grade decoupled file schema:
 Below are the key institutional trend charts generated dynamically by the analytics engine:
 
 ### 1. Employment Rate Benchmarking (Bar Chart)
-![University Ranking](Graphs/1_gist_University_Ranking.png)
+![University Ranking](The 50 best universities in the USA/Graphs/1_gist_University_Ranking.png)
 
 ### 2. University Rating Analytics (Scatter Plot)
 ![University Rating](Graphs/2_University_rating.png)
